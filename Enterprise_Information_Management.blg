@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.6
+[0] Config.pm:357> INFO - Logfile is 'Enterprise_Information_Management.blg'
+[26] biber-MSWIN64:302> INFO - === 
+[46] Biber.pm:359> INFO - Reading 'Enterprise_Information_Management.bcf'
+[124] Biber.pm:823> INFO - Found 1 citekeys in bib section 0
+[135] Biber.pm:3658> INFO - Processing section 0
+[152] Biber.pm:3828> INFO - Looking for bibtex format file 'literatur.bib' for section 0
+[159] bibtex.pm:1425> INFO - Decoding LaTeX character macros into UTF-8
+[164] bibtex.pm:1282> INFO - Found BibTeX data source 'literatur.bib'
+[180] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[180] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[180] Biber.pm:3487> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'de-DE'
+[180] Biber.pm:3493> INFO - No sort tailoring available for locale 'de-DE'
+[182] bbl.pm:597> INFO - Writing 'Enterprise_Information_Management.bbl' with encoding 'UTF-8'
+[182] bbl.pm:701> INFO - Output to Enterprise_Information_Management.bbl

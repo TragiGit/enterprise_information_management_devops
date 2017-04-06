@@ -1,0 +1,56 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{Peschlow.2012}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e776a2b26fb4e21a45d4893804a6b33c}{%
+           family={Peschlow},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {codecentric AG}%
+      }
+      \strng{namehash}{e776a2b26fb4e21a45d4893804a6b33c}
+      \strng{fullhash}{e776a2b26fb4e21a45d4893804a6b33c}
+      \strng{authornamehash}{e776a2b26fb4e21a45d4893804a6b33c}
+      \strng{authorfullhash}{e776a2b26fb4e21a45d4893804a6b33c}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1.2012}
+      \field{series}{Java Magazin}
+      \field{title}{Die DevOps Bewegung}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2017}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://public.centerdevice.de/ef7a0a7e-55c7-4757-a5f4-5838d38a826c
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
